@@ -15,7 +15,7 @@ Both calculators share the same core logic, but offer different user experiences
 
 ## 📸 Preview
 
-![Calculator Screenshot](calculator.png) 
+![Calculator Screenshot](Calculator_Qt/calculator.png) 
 
 ---
 
